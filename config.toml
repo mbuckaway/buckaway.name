@@ -51,15 +51,11 @@ copyright = "&copy;2021 Mark Buckaway"
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "https://markbuckaway.medium.comy"
+        url = "https://markbuckaway.medium.com"
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "mark@buckaway.name"
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        url = "mailto:mark@buckaway.name"
 
   # Links List #2
   [[params.links]]
@@ -67,33 +63,30 @@ copyright = "&copy;2021 Mark Buckaway"
       heading = "Social"
 
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "https://twitter.com/hackmtb"
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/markbuckaway/"
+
+      [[params.links.list2.link]]
+        text = "Instagram (IOT)"
+        url = "https://instagram.com/hackiot"
 
       [[params.links.list2.link]]
         text = "Instagram"
         url = "https://instagram.com/hackmtb"
 
       [[params.links.list2.link]]
-        text = "Instagram (IOT)"
-        url = "https://instagram.com/hackiot"
+        text = "Twitter"
+        url = "https://twitter.com/hackmtb"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Projects"
 
       [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
+        text = "Trail Monitoring System"
+        url = "http://trailmonitoringsystem.com"
 
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
